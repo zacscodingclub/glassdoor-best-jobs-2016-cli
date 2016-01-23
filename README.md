@@ -7,6 +7,5 @@ To install and run from command line:
 
 1. Fork this repo!
 2. Clone your fork locally.
-3. `cd glassdoor-best-jobs-2016-cli`
-4. run `bundle`
-5. Execute the program by typing `bin/run`
+3. Move into your new directory `cd glassdoor-best-jobs-2016-cli`
+4. Execute the program by typing `bin/run`
