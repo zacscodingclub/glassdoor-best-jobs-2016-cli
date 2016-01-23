@@ -1,6 +1,3 @@
-require_relative '../lib/scraper.rb'
-require_relative '../lib/job.rb'
-
 class CommandLineInterface
   
   def call
